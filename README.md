@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vili-0, just call me Vili.2
+- 👋 Hi, I’m @Vili-0, just call me Vili.
 - 👀 I’m interested in DnD
 - 🌱 I’m currently learning software engineering
 - 😄 Pronouns: He/him
